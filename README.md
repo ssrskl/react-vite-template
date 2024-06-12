@@ -9,6 +9,10 @@ Vite+React+TypeScript+Antd+Shadcn/UI+React-Router
 - swr：数据请求
 - antd：UI组件
 - ahooks：React Hooks库
+- react-icons：图标库
+```bash
+pnpm install react-icons --save
+```
 - iconify：支持各种 svg 图标
 ```bash
 pnpm install --save-dev @iconify/react
