@@ -12,6 +12,8 @@ Vite+React+TypeScript+Antd+Shadcn/UI+React-Router
 - lodash：工具库
 - swr：数据请求
 - antd：UI 组件
+- shadcn/ui：UI 组件
+- TailwindCSS：CSS 框架
 - ahooks：React Hooks 库
 - react-icons：图标库
 
